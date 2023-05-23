@@ -1,0 +1,20 @@
+{
+  "name": "back-my-info-panel-app",
+  "version": "1.0.0",
+  "description": "back for app panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "cristofer jaimez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
